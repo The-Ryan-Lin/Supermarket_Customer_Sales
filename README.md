@@ -41,16 +41,21 @@ Utilising the Five Why’s structured thinking framework, the business problem a
 
 ## Tableau Dashboard
 
-![Image](Figures/dashboard1.jpeg)
+![Image](Figures/dashboard1.png)
+![Image](Figures/dashboard2.png)
+![Image](Figures/dashboard3.png)
 
 ## Recommendations
-Based on the analysis:
+
 - **Data Optimisation for Tableau:** It is suggested that 2Market optimise its data structure for better compatibility with Tableau.
 - **Advertising Strategy:** Allocation of marketing budgets should be proportionate to the performance of advertising channels in each country.
 
 ## Future Scope
 Further analysis can explore the impact of demographic variables on customer spending patterns and refine the advertising strategy based on more granular data.
 
-<h2>Findings and Recommendations - Final Stakeholder Presentation</h2> 
+<h2>Final Stakeholder Presentation</h2> 
+
+If you would like to view the final presentation to the stakeholders of 2Market, please click the image below: 
+[![2Marke_intro_slide](https://github.com/The-Ryan-Lin/Ryan_Lin_DA101_Assignment/blob/main/Figures/intro_2Market.png)](https://drive.google.com/file/d/10rIX3Q-Mf7AZNEOZj3gSkGzJsqzyE4So/view?usp=drive_link)
 
 
