@@ -55,7 +55,7 @@ Further analysis can explore the impact of demographic variables on customer spe
 
 <h2>Final Stakeholder Presentation</h2> 
 
-If you would like to view the final presentation to the stakeholders of 2Market, please click the image below: 
+If you would like to view the final video presentation to the stakeholders of 2Market, please click the image below (navigates to a Google Drive video): 
 [![2Marke_intro_slide](https://github.com/The-Ryan-Lin/Ryan_Lin_DA101_Assignment/blob/main/Figures/intro_2Market.png)](https://drive.google.com/file/d/10rIX3Q-Mf7AZNEOZj3gSkGzJsqzyE4So/view?usp=drive_link)
 
 
